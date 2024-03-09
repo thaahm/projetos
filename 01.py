@@ -7,4 +7,4 @@ if media < 5:
 elif media >= 5 and media <= 7:
     print("O aluno está de recuperação")
 else:
-    print('O aluno está aprovado.')
+    print('O aluno está aprovado!')
